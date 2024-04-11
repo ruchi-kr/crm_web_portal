@@ -1,0 +1,141 @@
+/* ruchi css start */
+* {
+  font-family: "Public Sans", sans-serif;
+  font-optical-sizing: auto;
+  /* font-weight: <weight>; */
+  font-style: normal;
+}
+.ant-table-thead .ant-table-cell {
+  background-color: #fff !important;
+}
+.font16px {
+  font-size: 16px;
+}
+.font14px {
+  font-size: 14px;
+}
+.font30px {
+  font-size: 30px;
+}
+.font12px {
+  font-size: 12px;
+}
+.textblue {
+  color: #1890ff;
+}
+.textgrey {
+  color: #8c8c8c;
+}
+.textblackfigma {
+  color: #262626;
+}
+.bgActiveLightblue {
+  background-color: #e6f7ff !important;
+}
+
+.bgBlue {
+  background-color: #1890ff !important;
+}
+
+.fontweight500 {
+  font-weight: 500;
+}
+
+.bordergrey {
+  border: 1px solid #d9d9d9;
+}
+
+.textareaph::placeholder {
+  font-size: 14px;
+  color: #bfbfbf;
+}
+/* ruchi css end */
+
+/* .App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+} */
+
+/* ************************* side bar style start****************************************  */
+
+.font30 {
+  font-size: 30px;
+  color: black;
+  font-weight: 600;
+  margin-top: -10px;
+}
+.font14 {
+  font-size: 14px;
+  color: #282c34;
+}
+.sidebarimg {
+  margin-right: 10px;
+}
+.bootcardclass {
+  width: 800px;
+  height: 300px;
+}
+.profilename {
+  font-size: 16px;
+  font-weight: 600;
+  margin-top: -50px;
+  margin-left: -20px;
+}
+.profileimgright {
+  margin: 10px 10px;
+}
+.heading2 {
+  font-family: "Public Sans", sans-serif;
+  font-size: 30px;
+}
+.dashbhrline {
+  width: 1100px;
+}
+.cardingbootstr {
+  width: 288px;
+  height: 13px;
+}
+.strongh1 {
+  font-size: 16px;
+}
+.cardintext {
+  font-size: 14px;
+}
+/* card parent style */
+.bootparentcard {
+  width: 550px;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
